@@ -69,7 +69,7 @@ Images, diagrams and auxiliary files should be included in a subdirectory of the
 
 ## SHEP Editors
 
-Names of SHEP Editors still tbdf.
+Bob Harris (@BobHarris1)
 
 ## SHEP Editor Responsibilities
 
