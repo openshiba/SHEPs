@@ -1,5 +1,5 @@
 ---
-shep: 1
+shep: 2
 title: SHEP Purpose and Guidelines
 status: Living
 type: Meta
@@ -7,9 +7,9 @@ author: masashi-shib <masashi.shib@outlook.com>
 created: 2021-06-06
 ---
 
-## What is an SHEP?
+## What is a SHEP?
 
-SHEP stands for SHIB Ecosystem Proposal. An SHEP is a design document, decision document providing information to the SHIB community, or describing a new initiative for SHIB Ecosystem. The SHEP should provide a concise technical specification of the feature (if possible) and a rationale for the feature. The SHEP author is responsible for building consensus within the community and documenting dissenting opinions.
+SHEP stands for SHIB Ecosystem Proposal. A SHEP is a design document, decision document providing information to the SHIB community, or describing a new initiative for SHIB Ecosystem. The SHEP should provide a concise technical specification of the feature (if possible) and a rationale for the feature. The SHEP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## SHEP Rationale
 
@@ -17,13 +17,13 @@ We intend SHEPs to be the primary mechanisms for proposing new features, for col
 
 ## SHEP Work Flow
 
-### Shepherding an SHEP
+### Shepherding a SHEP
 
 Parties involved in the process are you, the champion or *SHEP author*, the [*SHEP editors*](#shep-editors), and the *SHIB ARMY DEVs*.
 
-Before you begin writing a formal SHEP, you should vet your idea. Ask the SHIB community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion thread on [SHIB Discor Server] to do this, but you can also use [the SHIB subreddit] or [the Issues section of this repository]. 
+Before you begin writing a formal SHEP, you should vet your idea. Ask the SHIB community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion thread on [SHIB Discord Server] to do this, but you can also use [the SHIB subreddit] or [the Issues section of this repository]. 
 
-Once the idea has been vetted, your next responsibility will be to present (by means of an SHEP) the idea to the reviewers and all interested parties, invite editors, developers, and the community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your SHEP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. Negative community feedback will be taken into consideration and may prevent your SHEP from moving past the Draft stage.
+Once the idea has been vetted, your next responsibility will be to present (by means of a SHEP) the idea to the reviewers and all interested parties, invite editors, developers, and the community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your SHEP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. Negative community feedback will be taken into consideration and may prevent your SHEP from moving past the Draft stage.
 
 ### SHEP Process 
 
@@ -31,11 +31,11 @@ The following is the standardization process for all SHEPs:
 
 **Idea** - An idea that is pre-draft. This is not tracked within the SHEP Repository.
 
-**Draft** - The first formally tracked stage of an SHEP in development. An SHEP is merged by an SHEP Editor into the SHEP repository when properly formatted.
+**Draft** - The first formally tracked stage of a SHEP in development. A SHEP is merged by an SHEP Editor into the SHEP repository when properly formatted.
 
-**Review** - An SHEP Author marks an SHEP as ready for and requesting Peer Review.
+**Review** - A SHEP Author marks a SHEP as ready for and requesting Peer Review.
 
-**Last Call** - This is the final review window for an SHEP before moving to `FINAL`. An SHEP editor will assign `Last Call` status and set a review end date (review-period-end), typically 14 days later.
+**Last Call** - This is the final review window for a SHEP before moving to `FINAL`. A SHEP editor will assign `Last Call` status and set a review end date (review-period-end), typically 14 days later.
 
 If this period results in necessary normative changes it will revert the SHEP to `REVIEW`.
 
@@ -83,7 +83,7 @@ If the SHEP isn't ready, the editor will send it back to the author for revision
 
 Once the SHEP is ready for the repository, the SHEP editor will:
 
-- Assign an SHEP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this SHEP)
+- Assign a SHEP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this SHEP)
 
 - Merge the corresponding pull request
 
